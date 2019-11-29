@@ -53,7 +53,7 @@ social:
   link: https://wongbessie12.wixsite.com/letschat
 - icon: cv
   icon_pack: ai
-  link: http://bit.ly/2JK9FYf
+  link: http://bit.ly/34Catb2
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
