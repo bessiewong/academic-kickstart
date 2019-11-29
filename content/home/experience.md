@@ -18,27 +18,49 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "COMMUNICATIONS ASSISTANT"
+  company = "REAL ESTATE COUNCIL OF BC"
+  company_url = "https://www.recbc.ca"
+  location = "Vancouver, Canada"
+  date_start = "2019-01-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Developed a social media implementation plan while maintaining the needs and standards of a regulatory agency
+  * Launched social media and developed ways to build an audience Proofread and edited communications material both internally and externally
+  * Drafted and edited website pages through WordPress HTML code
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "COMMUNICATIONS ASSISTANT"
+  company = "WILLOW LASH LABS"
+  company_url = "http://www.willowlashlabs.ca"
+  location = "Vancouver, Canada"
+  date_start = "2018-02-01"
+  date_end = "2018-05-01"
+  description = """
+  Responsibilities include:
+
+  * Creatively curated and scheduled Instagram posts on feed and story, showcasing our work and brand to improve clientele connection
+  * Professionally responded to emails and calls in a timely manner while informing potential clients and students of our beauty salon 
+  * Delivered exceptional customer service while managing appointments
+  """
+
+[[experience]]
+  title = "MARKETING ASSISTANT"
+  company = "FULL CIRCLE: FIRST NATIONS PERFORMING ARTS SOCIETY"
+  company_url = "https://fullcircle.ca"
+  location = "Vancouver, Canada"
+  date_start = "2017-09-01"
+  date_end = "2017-12-01"
+  description = """
+  Responsibilities include:
+
+  * Developed a social media strategy and content calendar to increase online presence and following
+  * Managed and optimized WordPress website by working on creating new pages, SEO, and formatting
+  * Used Google analytics and Facebook ads to help reach a better target audience 
+  * Wrote and created monthly e-blast newsletters
+  """
 
 +++
