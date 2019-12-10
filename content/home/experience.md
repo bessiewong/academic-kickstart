@@ -28,7 +28,8 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Developed a social media implementation plan while maintaining the needs and standards of a regulatory agency
-  * Launched social media and developed ways to build an audience Proofread and edited communications material both internally and externally
+  * Launched social media and developed ways to build an audience 
+  * Proofread and edited communications material both internally and externally
   * Drafted and edited website pages through WordPress HTML code
   """
 
