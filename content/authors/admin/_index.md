@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Communication Assistant and Student
+role: Communication Student
 
 # Organizations/Affiliations
 organizations:
@@ -75,8 +75,8 @@ user_groups:
 <br/>
 <br/>
 
-Hello! 
+Hi there! 
 
-I'm Bessie, a creative and energetic Communication student based in Vancouver, BC. Currently, I am a Communications Assistant at BC's Real Estate Regulator as well as a self-employed English Tutor. 
+I'm Bessie, a creative and energetic Communication student based in Vancouver, BC. Most recently, I was the Communications Assistant for British Columbias' Real Estate Regulator as well as a self-employed English Tutor. During my downtime, I love reading new novels and practicing yoga.
 
 Scroll down to find out more!

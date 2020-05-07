@@ -1,6 +1,6 @@
 +++
 date = 2019-11-26
-title = "Blog: Speaking between two cultures: An interview"
+title = "Blog: Speaking Between Two cultures: An interview"
 summary = "Find out what it's like to be an international student with Bin and Dan!"
 +++
 

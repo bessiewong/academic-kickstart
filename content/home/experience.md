@@ -23,14 +23,13 @@ date_format = "Jan 2006"
   company_url = "https://www.recbc.ca"
   location = "Vancouver, Canada"
   date_start = "2019-01-01"
-  date_end = ""
+  date_end = "2020-01-01"
   description = """
   Responsibilities include:
   
-  * Developed a social media implementation plan while maintaining the needs and standards of a regulatory agency
-  * Launched social media and developed ways to build an audience 
-  * Proofread and edited communications material both internally and externally
-  * Drafted and edited website pages through WordPress HTML code
+  * Developed and executed a social media plan and created content/Ad copy for new platforms such as FB, Twitter and LinkedIn through Hootsuite
+  * Assisted in the development, production, and distribution of external communications materials, including fact sheets, brochures, newsletters, media releases, eblasts, and PowerPoint presentations
+  * Worked with team members to research and draft stories and edit and proofread copy on both documents and Wordpress website
   """
 
 [[experience]]
@@ -43,9 +42,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
 
-  * Creatively curated and scheduled Instagram posts on feed and story, showcasing our work and brand to improve clientele connection
-  * Professionally responded to emails and calls in a timely manner while informing potential clients and students of our beauty salon 
-  * Delivered exceptional customer service while managing appointments
+  * Curated and mantained social media platforms while engaging audiences such as using #tuesdaytips and showcasing client photos
+  * Responded to emails and calls in a timely and professional manner while informing potential clients of our services
+  * Scheduled and managed over 50 appointments on a weekly basis and handled all cash flows 
   """
 
 [[experience]]
@@ -58,10 +57,25 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
 
-  * Developed a social media strategy and content calendar to increase online presence and following
-  * Managed and optimized WordPress website by working on creating new pages, SEO, and formatting
-  * Used Google analytics and Facebook ads to help reach a better target audience 
+  * Executed a social media strategy and monthly content calendar which increased our online presence
+  * Managed and optimized WordPress website by writing SEO, targeting ads and creating new pages
+  * Used Google analytics and Facebook ads to help reach a better target audience
   * Wrote and created monthly e-blast newsletters
+  * Delivered effective event and copy write for our audience or collaborators
+  """
+
+[[experience]]
+  title = "BRAND AMBASSADOR & CONTENT CREATOR"
+  company = "INTUITIVE MARKETING"
+  company_url = ""
+  location = "Vancouver, Canada"
+  date_start = "2016-05-01"
+  date_end = "2018-05-01"
+  description = """
+  Responsibilities include:
+
+  * Created social media content on a weekly basis which increased our audience engagement by 5% and organic impressions by 10% 
+  * Initiated conversations to people across the Vancouver Lower Mainland to create brand awareness and loyalty at various seasonal event booths
   """
 
 +++

@@ -1,7 +1,7 @@
 +++
 date = 2019-11-26
 title = "Blog: 5 Ways to Avoid the Mid-Day Crash"
-summary = "Lunch coma got you stuck? Read on for tips."
+summary = "Food coma got you stuck? Read on for tips."
 +++
 
 ![Vancouver skyline](/images/bessie2.png)
